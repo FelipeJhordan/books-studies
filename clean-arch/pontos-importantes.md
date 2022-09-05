@@ -1,0 +1,2 @@
+## Pontos importantes 
+1 - Você é um  stakholder do código/software, então lute pelas melhores práticas, melhores processos e pela arquitetura mais escalável, lembre-se que a arquitetura é IMPORTANTE e URGENTE.
